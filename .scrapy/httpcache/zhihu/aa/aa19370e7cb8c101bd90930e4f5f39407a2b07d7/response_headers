@@ -1,0 +1,7 @@
+Server: ZWS
+Location: https://www.zhihu.com/signup?next=%2F
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+X-Backend-Server: heifetz.heifetz.aa657dac---10.70.10.69:31060[10.70.10.69:31060]
+Date: Tue, 29 May 2018 08:08:16 GMT
+Set-Cookie: tgw_l7_route=860ecf76daf7b83f5a2f2dc22dccf049; Expires=Tue, 29-May-2018 08:23:16 GMT; Path=/

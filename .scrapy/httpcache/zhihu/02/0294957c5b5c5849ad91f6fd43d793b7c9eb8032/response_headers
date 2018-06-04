@@ -1,0 +1,15 @@
+Date: Sat, 02 Jun 2018 08:13:04 GMT
+Set-Cookie: tgw_l7_route=ec452307db92a7f0fdb158e41da8e5d8; Expires=Sat, 02-Jun-2018 08:28:04 GMT; Path=/
+Set-Cookie: _xsrf=d1d046d4-2eb6-4ff2-8bf2-0012a5374805; path=/; domain=.zhihu.com
+Set-Cookie: d_c0="AIDkKlL3rw2PTuQ5YxRQMKvtDHFKI9eCClM=|1527927184"; path=/; expires=Tue, 01 Jun 2021 08:13:04 GMT; domain=zhihu.com
+Set-Cookie: q_c1=a675336dad55456c93bdf59fbeba5db6|1527927184000|1527927184000; path=/; expires=Tue, 01 Jun 2021 08:13:04 GMT; domain=zhihu.com
+Pragma: no-cache
+X-Frame-Options: DENY
+Cache-Control: private,no-store,max-age=0,no-cache,must-revalidate,post-check=0,pre-check=0
+X-Backend-Server: heifetz.heifetz.340863b1---10.70.0.32:31008[10.70.0.32:31008]
+Vary: Accept-Encoding
+Server: ZWS
+Content-Type: text/html; charset=utf-8
+Content-Security-Policy: default-src * blob:;img-src * data: blob:;frame-src 'self' *.zhihu.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 weixin: zhihujs: v.qq.com v.youku.com www.bilibili.com *.vzuu.com captcha.guard.qcloud.com;script-src 'self' *.zhihu.com *.google-analytics.com zhstatic.zhihu.com res.wx.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com captcha.gtimg.com captcha.guard.qcloud.com blob:;style-src 'self' *.zhihu.com unicom.zhimg.com 'unsafe-inline' captcha.gtimg.com;connect-src * wss:
+Content-Encoding: gzip
+Expires: Fri, 02 Jan 2000 00:00:00 GMT
